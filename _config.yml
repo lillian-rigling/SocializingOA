@@ -1,9 +1,8 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
-title: Type on Strap # site's title
-description: "A website with blog posts and pages" # used by search engines
-
+baseurl: "/OA-Humanities"
+url: "https://lillian-rigling.github.io"
+title: Socializing Open Access in the Humanities
+description: "Tracking stories of open in the humanities"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -22,14 +21,14 @@ theme_settings:
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "lrigling@gmail.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
   gitlab:
-  github: "sylhare"
+  github: "lillian-rigling"
   google_plus:
   instagram:
   keybase:
@@ -40,7 +39,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: # "twitter username"
+  twitter: "lilyrglg"
   vimeo:
   wordpress:
   youtube:
