@@ -8,8 +8,8 @@ description: "Tracking stories of open in the humanities"
 theme_settings:
   # Meta
   title: Socializing Open Access in the Humanities
-  avatar: assets/img/triangle.svg
-  favicon: assets/favicon.ico
+  avatar: assets/img/open-2389230_1280.png	
+  favicon: assets/open-2389230_1280.png	
   gravatar: # Email MD5 hash
 
   # Header and footer text
