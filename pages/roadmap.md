@@ -2,7 +2,7 @@
 layout: page
 title: Project Roadmap
 permalink: /roadmap/
-feature-img: "assets/img/pexels/circuit.jpeg"
+feature-img: "assets/img/pexels/desk-messy.jpeg"
 hide: false
 tags: [Plan, Roadmap]
 ---
