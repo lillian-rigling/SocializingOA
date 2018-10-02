@@ -8,13 +8,12 @@ description: "Tracking stories of open in the humanities"
 theme_settings:
   # Meta
   title: Socializing Open Access in the Humanities
-  avatar: assets/img/open-2389230_1280.png
+  avatar: assets/img/unlocked.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
   # Header and footer text
-  header_text: > #two or three lines to describe your site
-     <p>Socializing Open Access in the Humanities</p>
+  header_text: 
   header_text_feature_image: assets/img/pexels/trinity-college-405783_1920.jpg	
 
   footer_text: >
