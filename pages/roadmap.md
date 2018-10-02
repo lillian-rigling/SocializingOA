@@ -2,7 +2,7 @@
 layout: page
 title: Project Roadmap
 permalink: /roadmap/
-feature-img: "SocializingOA/assets/img/road.jpeg"
+feature-img: "assets/img/road.jpeg"
 hide: false
 tags: [Plan, Roadmap]
 ---
