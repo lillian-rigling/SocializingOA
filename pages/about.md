@@ -4,7 +4,7 @@ title: Project Roadmap
 permalink: /roadmap/
 feature-img: "assets/img/pexels/circuit.jpeg"
 hide: false
-tags: [About, Archive]
+tags: [Plan, Roadmap]
 ---
 
 <h2> Project Mission and Summary </h2>
