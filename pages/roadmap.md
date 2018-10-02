@@ -2,7 +2,7 @@
 layout: page
 title: Project Roadmap
 permalink: /roadmap/
-feature-img: "https://collectionapi.metmuseum.org/api/collection/v1/iiif/264968/609874/main-image"
+feature-img: "SocializingOA/assets/img/road.jpeg"
 hide: false
 tags: [Plan, Roadmap]
 ---
