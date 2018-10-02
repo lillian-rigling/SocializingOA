@@ -1,4 +1,13 @@
-# Contributor Covenant Code of Conduct
+---
+layout: page
+title: Code of Conduct
+permalink: /code-of-conduct
+feature-img: "assets/img/okeefe.jpg"
+hide: false
+tags: [Code of Conduct]
+---
+
+# Code of Conduct
 
 ## Our Pledge
 
