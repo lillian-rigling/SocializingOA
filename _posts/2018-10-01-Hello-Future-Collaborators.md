@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello, Future Collaborators!
-tags:[Mozilla, Open Leaders, Open Access]
+tags: Mozilla, Open Leaders, Open Access
 excerpt_separator: <!--more-->
 ---
 As part of the <a href="https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/round-6/projects/projects---cohort-a/"> Mozilla Open Leaders,</a> we’re creating resources for and working with humanities researchers and educators to find ways to integrate open practices into their workflows and articulate the value of humanities work so that educators and learners can have better access to the breadth of extant and emerging humanities research.
